@@ -1,0 +1,229 @@
+{
+    "data":[
+        {
+            "name": "AGASHIYE, AHMEDABAD",
+            "category": [
+              "continentals",
+              "asian",
+              "indian",
+              "Desert"
+            ],
+            "cost_for_one": 9500,
+            "cost_for_two": 11500,
+            "rating": 1.5,
+            "votes": 6500,
+            "review": 6900,
+            "image": "https://www.greavesindia.co.uk/wp-content/uploads/2017/11/7-Amethyst.jpg",
+            "payment_method": {
+              "cash": true,
+              "card": true,
+              "upi": false
+            },
+            "id": 1
+          },
+          {
+            "name": "Noma (Copenhagen, Denmark)",
+            "category": [
+              "Continetal",
+              "Pizza",
+              "Asian",
+              "Desserts"
+            ],
+            "cost_for_one": 430,
+            "votes": 74,
+            "review": 544,
+            "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": false
+            },
+            "image": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=FitAndFill,width=1200,height=900",
+            "rating": 4.4,
+            "id": 2
+          },
+          {
+            "name": "Mugaritz (San Sebastian, Spain)",
+            "category": [
+              "Continetal",
+              "Pizza",
+              "Asian",
+              "Desserts"
+            ],
+            "cost_for_one": 300,
+            "votes": 544,
+            "review": 534,
+            "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": false
+            },
+            "image": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=FitAndFill,width=1200,height=900",
+            "rating": 3.6,
+            "id": 3
+          },
+          {
+            "name": "Piazza Duomo (Alba, Italy)",
+            "category": [
+              "Continetal",
+              "Pizza",
+              "Asian",
+              "Desserts"
+            ],
+            "cost_for_one": 240,
+            "votes": 474,
+            "review": 6454,
+            "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": false
+            },
+            "image": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=FitAndFill,width=1200,height=900",
+            "rating": 4.4,
+            "id": 4
+          },
+          {
+            "name": "Narisawa (Tokyo, Japan)",
+            "category": [
+              "Continetal",
+              "Pizza",
+              "Asian",
+              "Desserts"
+            ],
+            "cost_for_one": 470,
+            "votes": 774,
+            "review": 56454,
+            "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": false
+            },
+            "image": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=FitAndFill,width=1200,height=900",
+            "rating": 2.4,
+            "id": 5
+          },
+          {
+            "name": "DiverXO (Madrid, Spain)",
+            "category": [
+              "Continetal",
+              "Pizza",
+              "Asian",
+              "Desserts"
+            ],
+            "cost_for_one": 430,
+            "votes": 774,
+            "review": 2254,
+            "payment_method": {
+              "card": true,
+              "cash": false,
+              "upi": false
+            },
+            "image": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=FitAndFill,width=1200,height=900",
+            "rating": 1.5,
+            "id": 6
+          },
+          {
+            "name": "Noma (Copenhagen, Denmark)",
+            "category": [
+              "Continetal",
+              "Pizza",
+              "Asian",
+              "Desserts"
+            ],
+            "cost_for_one": 40,
+            "votes": 774,
+            "review": 5454,
+            "payment_method": {
+              "card": false,
+              "cash": true,
+              "upi": false
+            },
+            "image": "https://images.news18.com/ibnlive/uploads/2021/06/1623924457_food-chart.jpg?im=FitAndFill,width=1200,height=900",
+            "rating": 4.4,
+            "id": 7
+          },
+          {
+            "name": "Indian Accent",
+            "category": [
+              "continentals",
+              "asian",
+              "indian",
+              "Desert"
+            ],
+            "cost_for_one": 2000,
+            "cost_for_two": 3000,
+            "rating": 4.5,
+            "votes": 1000,
+            "review": 8000,
+            "image": "https://www.tripsavvy.com/thmb/9tF4BIKDhlajH4PQIj_rkXmWuWU=/1000x1000/smart/filters:no_upscale()/26-5adafa56c6733500373c3cf5.jpg",
+            "payment_method": {
+              "cash": true,
+              "card": false,
+              "upi": false
+            },
+            "id": 8
+          },
+          {
+            "name": "BALLYGUNGE PLACE, KOLKATA",
+            "category": [
+              "continentals",
+              "asian",
+              "indian",
+              "Desert"
+            ],
+            "cost_for_one": 1500,
+            "cost_for_two": 2500,
+            "rating": 3.5,
+            "votes": 800,
+            "review": 600,
+            "image": "https://www.greavesindia.co.uk/wp-content/uploads/2017/11/2-1559AD.jpg",
+            "payment_method": {
+              "cash": true,
+              "card": true,
+              "upi": false
+            },
+            "id": 9
+          },
+          {
+            "name": "1559 AD, UDAIPUR",
+            "category": [
+              "continentals",
+              "asian",
+              "indian",
+              "Desert"
+            ],
+            "cost_for_one": 4500,
+            "cost_for_two": 6000,
+            "rating": 4.8,
+            "votes": 1800,
+            "review": 1600,
+            "image": "https://www.greavesindia.co.uk/wp-content/uploads/2017/11/5-Agashiye.jpg",
+            "payment_method": {
+              "cash": true,
+              "card": false,
+              "upi": true
+            },
+            "id": 10
+          },
+          {
+            "name": "AISH, HYDERABAD",
+            "category": [
+              "continentals",
+              "asian",
+              "indian",
+              "Desert"
+            ],
+            "cost_for_one": 1000,
+            "cost_for_two": 1500,
+            "rating": 3.8,
+            "votes": 600,
+            "review": 300,
+            "image": "https://www.greavesindia.co.uk/wp-content/uploads/2017/11/4-Aish.jpg",
+            "payment_method": {
+              "cash": true,
+              "card": false,
+              "upi": false
+            },
+            "id": 11
+          }
+    ]
+}

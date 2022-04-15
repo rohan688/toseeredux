@@ -1,19 +1,24 @@
-const express = require('express');
-require("dotenv").config();
-const PORT = process.env.PORT || 5000;
-const connect = require("./config/db")
-const app = express();
-const {Register, Login} = require("./controllers/users.controller")
-app.use(express.json());
-app.post("/register",Register);
-app.post("/login", Login);
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+import { Provider } from 'react-redux';
+import { store } from './Redux/store';
+import { Router } from 'react-router-dom';
 
-app.listen(PORT, async(req,res)=>{
-    try {
-        await connect();
-        console.log('successfully connected on port 8080....')
-    } catch (error) {
-        console.log(error)
-    }
-})
+ReactDOM.render(
+  <React.StrictMode>
+    {/* <Router> */}
+    <Provider store={store}>
+    <App />
+    </Provider>
+    {/* </Router> */}
+  </React.StrictMode>,
+  document.getElementById('root')
+);
 
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
